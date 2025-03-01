@@ -17,9 +17,27 @@ Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsin:
    ```
 2. Proje klasörüne gir:
    ```sh
-   cd hangman-game
+   cd adam_asmaca
    ```
 3. Oyunu çalıştır:
    ```sh
-   python hangman.py
+   python adam_asmaca.py
    ```
+## 🎮 Kullanım
+- Harf tahmini yaparak gizli kelimeyi bulmaya çalış.
+- Yanlış tahmin yaptığında adam asma görseli ilerler.
+- Tüm harfleri doğru tahmin edersen oyunu kazanırsın, tüm haklarını kaybedersen oyunu kaybedersin.
+
+## 📝 Örnek Çalışma
+```sh
+_ _ _ _ _
+Tahmin ettiğiniz harfi girin: a
+_ a _ a _
+```
+
+## 📌 Geliştirme
+Projeye katkıda bulunmak istersen pull request gönderebilirsin. Hata bildirimleri için lütfen **Issues** sekmesini kullan.
+
+
+---
+🚀 İyi eğlenceler!
