@@ -1,4 +1,4 @@
-# Adam Asmaca Oyunu
+# Adam Asmaca Oyunu 🎮
 
 Bu proje python kullanılarak geliştirilmiş klasik bir **Adam Asmaca (Hangman)** oyunudur. Oyuncu, belirlenen kelimeyi tahmin etmek için sınırlı sayıda hata yapma hakkına sahiptir. 
 
