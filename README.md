@@ -30,9 +30,18 @@ Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsin:
 
 ## 📝 Örnek Çalışma
 ```sh
-_ _ _ _ _
-Tahmin ettiğiniz harfi girin: a
-_ a _ a _
+Harf tahmin edin:k
+Bu harf kelimede yok
+Kalan caniniz: 7 Kullandiginiz harfler: K A E L
+
+                ___________
+               | /        
+               |/        
+               |
+               |
+               |
+
+Şuanki Kelime E - E - - - A -
 ```
 
 ## 📌 Geliştirme
