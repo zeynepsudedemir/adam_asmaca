@@ -13,7 +13,7 @@ Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsin:
 
 1. Bu repoyu klonla:
    ```sh
-   git clone https://github.com/kullanici-adin/hangman-game.git
+   git clone https://github.com/zeynepsudedemir/adam_asmaca.git
    ```
 2. Proje klasörüne gir:
    ```sh
